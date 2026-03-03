@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "^2.1693.0",
     "express": "5.2.1",
     "pg": "8.19.0",
     "swagger-jsdoc": "^6.2.8",
